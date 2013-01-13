@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+0"], "command": "set_font_size", "args": { "size": 14 } }
+]
