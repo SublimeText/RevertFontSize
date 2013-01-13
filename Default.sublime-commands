@@ -1,7 +1,6 @@
 [
     {
         "caption": "Revert Font Size",
-        "command": "Set_font_size",
-        "args": { "size": 14 }
+        "command": "revert_font_size"
     }
 ]
