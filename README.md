@@ -2,6 +2,8 @@
 
 Helper plugin to quickly revert user's `font_size` value to a 'default'. Can be executed via keyboard shortcut `Ctrl+0` (or `Super+0` for OSX).
 
+Configure `RevertFontSize` settings in `Preferences >> Package Settings >> RevertFontSize >> Settings - User`.
+
 ## Settings
 `default_font_size`:
 
