@@ -16,3 +16,26 @@ Example `Preferences.sublime-settings` file:
     "revert_font_size": 12.0
 }
 ```
+
+## Keyboard Shortcuts
+
+<table>
+  <tr>
+    <th>Command</th>
+    <th>Windows</th>
+    <th>OS X</th>
+    <th>Linux</th>
+  </tr>
+  <tr>
+    <td>Revert Font Size</td>
+    <td>Ctrl+0</td>
+    <td>Super+0</td>
+    <td>Ctrl+0</td>
+  </tr>
+  <tr>
+    <td>Set Revert Font Size Value</td>
+    <td>Ctrl+Shift+0</td>
+    <td>Super+Shift+0</td>
+    <td>Ctrl+Shift+0</td>
+  </tr>
+</table>
