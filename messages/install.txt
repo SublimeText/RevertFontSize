@@ -1,0 +1,8 @@
+Hello there!
+
+Thank you for installing the RevertFontSize plugin.
+
+Please see the README.md file for more information on using this plugin.
+
+Best Regards,
+https://github.com/SublimeText/RevertFontSize/
