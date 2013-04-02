@@ -1,18 +1,24 @@
-# Revert Font Size package for Sublime Text 2
+# Revert Font Size package for Sublime Text
 
-Helper plugin to quickly revert user's `font_size` value to a 'default'. Can be executed via keyboard shortcut `Ctrl+0` (or `Super+0` for OSX).
+Helper plugin to quickly revert user's font size value. Can be executed via keyboard shortcut `Ctrl+0` (or `Super+0` for OS X).
 
-To start using `RevertFontSize` package, configure it by adding the following keys to your user preferences (`Preferences >> Settings - User`).
+**Notes:**
+
+- Sublime Text 2
+  - To start using this package, configure it by adding the `revert_font_size` key to your user preferences (`Preferences >> Settings - User`) or by invoking the `Set Revert Font Size Value` command.
+
+- Sublime Text 3:
+  - No additional work needed, the `revert_font_size` setting will be created automatically on initial load.
 
 ## Settings
 
-#### `revert_font_size`
+- `"revert_font_size": {font size}`
 
-Specify your font size value to revert here. The plugin will then update Sublime Text's current font size to the value specified here on execution.
-
-Example `Preferences.sublime-settings` file:
+Example `../User/Preferences.sublime-settings` file:
 ```json
 {
+    "font_face": "Source Code Pro",
+    "font_size": 14.0,
     "revert_font_size": 12.0
 }
 ```
