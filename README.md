@@ -7,7 +7,7 @@ Helper plugin to quickly revert user's font size value. Can be executed via keyb
 - Sublime Text 2
   - To start using this package, configure it by adding the `revert_font_size` key to your user preferences (`Preferences >> Settings - User`) or by invoking the `Set Revert Font Size Value` command.
 
-- Sublime Text 3:
+- Sublime Text 3
   - No additional work needed, the `revert_font_size` setting will be created automatically on initial load.
 
 ## Settings
