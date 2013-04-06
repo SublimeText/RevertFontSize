@@ -1,4 +1,4 @@
-# Revert Font Size package for Sublime Text
+# Revert Font Size package for Sublime Text [![Build Status](https://travis-ci.org/SublimeText/RevertFontSize.png?branch=master)](https://travis-ci.org/SublimeText/RevertFontSize)
 
 Helper plugin to quickly revert user's font size value. Can be executed via keyboard shortcut `Ctrl+0` (or `Super+0` for OS X).
 
