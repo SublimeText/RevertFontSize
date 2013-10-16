@@ -1,0 +1,31 @@
+[
+    {
+        "id": "tools",
+        "caption": "Tools",
+        "children":
+        [
+            {
+                "id": "packages",
+                "caption": "Packages",
+                "children":
+                [
+                    {
+                        "id": "Font Size",
+                        "caption": "Font Size",
+                        "children":
+                        [
+                            {
+                                "caption": "Revert Font Size",
+                                "command": "revert_font_size"
+                            },
+                            {
+                                "caption": "Set the Value for Revert Font Size",
+                                "command": "set_revert_font_size_value"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

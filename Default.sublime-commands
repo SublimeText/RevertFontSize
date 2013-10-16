@@ -4,7 +4,7 @@
         "command": "revert_font_size"
     },
     {
-        "caption": "Set Revert Font Size Value",
+        "caption": "Set the Value for Revert Font Size",
         "command": "set_revert_font_size_value"
     }
 ]
