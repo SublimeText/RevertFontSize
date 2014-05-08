@@ -1,4 +1,6 @@
 [
     { "keys": ["ctrl+0"], "command": "revert_font_size" },
-    { "keys": ["ctrl+shift+0"], "command": "set_revert_font_size_value" }
+    { "keys": ["ctrl+keypad0"], "command": "revert_font_size" },
+    { "keys": ["ctrl+shift+0"], "command": "set_revert_font_size_value" },
+    { "keys": ["ctrl+shift+keypad0"], "command": "set_revert_font_size_value" }
 ]
